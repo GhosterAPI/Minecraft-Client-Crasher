@@ -12,6 +12,13 @@ import org.bukkit.entity.Player;
 import net.minecraft.server.v1_8_R3.PacketPlayOutExplosion;
 import net.minecraft.server.v1_8_R3.Vec3D;
 
+/**
+ * @author Ghoster#0001
+ * @copyright Ghoster
+ * Created on 22.07.2021 «» 12:36
+ * Class «» CrashCommand
+ **/
+
 public class CrashCommand implements CommandExecutor {
 
     @SuppressWarnings("unchecked")
