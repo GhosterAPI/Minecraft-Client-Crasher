@@ -10,6 +10,6 @@ public class Main extends JavaPlugin {
     public void onEnable() {
 
         this.getCommand("crash").setExecutor(new CrashCommand());
-        Bukkit.getConsoleSender().sendMessage("§aDas Plugin wurde erfolgreich aktiviert!");
+        Bukkit.getConsoleSender().sendMessage("§aThe plugin was activated successfully! §eThe plugin was written by §cGhosterAPI§e!");
     }
 }
