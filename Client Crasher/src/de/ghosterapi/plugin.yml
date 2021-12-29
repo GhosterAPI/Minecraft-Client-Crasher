@@ -1,7 +1,0 @@
-name: ClientCrasher
-version: 1.0
-author: GhosterAPI
-main: de.ghosterapi.Main
-commands:
-  crash:
-    description: Crash a Minecraft Player
